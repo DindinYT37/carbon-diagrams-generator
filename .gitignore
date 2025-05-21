@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+.vscode/
+/carbon-diagrams/*.png
+/carbon-table/temp.html
